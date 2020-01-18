@@ -44,7 +44,11 @@ class Solution {
         }
         return dp[n];
     }
-    
+
+    /** 
+     * 谨以此方法，警醒自己，尽量保持清醒，
+     * 面向真实，面向需求，面向业务
+     */
     public int climbStairs(int n) {
         int result = 0;
     
